@@ -1,5 +1,5 @@
 
-from .app import MyGPG
+from .gpg_builder import MyGPG
 
 MYGPG = MyGPG()
 
